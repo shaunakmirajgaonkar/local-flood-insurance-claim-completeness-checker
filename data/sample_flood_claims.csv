@@ -1,0 +1,19 @@
+claim_id,area,flood_date,claim_type,policy_document_present,incident_date_documented,photos_count,receipts_count,repair_estimate_present,ownership_document_present,emergency_expense_records,damaged_item_inventory_complete,damage_description_score,room_damage_records_complete,moisture_documented,mitigation_actions_recorded,local_incident_report_present,witness_details_present,adjuster_contact_recorded,submission_deadline_days_remaining
+CLM-001,River Ward,2026-08-04,Home contents,True,True,8,6,True,True,True,True,95,True,True,True,True,True,True,24
+CLM-002,East Village,2026-08-11,Structure,True,True,5,2,True,True,True,True,82,True,True,True,False,False,True,12
+CLM-003,Canal Colony,2026-08-17,Home contents,True,False,3,1,False,True,False,False,61,False,True,False,False,False,False,6
+CLM-004,Old Market,2026-07-29,Structure,False,True,2,0,False,False,False,False,44,False,False,False,True,False,False,3
+CLM-005,North Hamlet,2026-08-02,Home contents,True,True,6,4,True,True,True,False,78,True,True,True,True,False,True,16
+CLM-006,Lakeside,2026-08-20,Vehicle,True,True,4,3,True,True,False,True,88,True,False,True,False,False,True,9
+CLM-007,Hill Road,2026-08-13,Structure,True,True,7,5,True,True,True,True,91,True,True,True,True,True,True,18
+CLM-008,South Bend,2026-08-18,Home contents,False,False,1,0,False,True,False,False,32,False,False,False,False,False,False,2
+CLM-009,Station Area,2026-08-07,Structure,True,True,5,3,False,True,True,True,73,True,True,False,True,False,True,11
+CLM-010,Greenfield,2026-08-09,Home contents,True,True,8,4,True,True,True,True,97,True,True,True,True,True,True,30
+CLM-011,Temple Ward,2026-08-15,Structure,True,True,3,1,False,False,True,True,58,False,True,True,False,True,False,5
+CLM-012,West Bank,2026-08-19,Home contents,False,True,2,0,False,False,False,False,48,False,True,False,False,False,True,7
+CLM-013,Market Extension,2026-07-31,Structure,True,True,6,5,True,True,True,True,86,True,True,True,True,False,True,21
+CLM-014,Palm Grove,2026-08-03,Home contents,True,True,5,2,True,True,False,True,76,True,False,True,False,True,True,14
+CLM-015,Bus Stand,2026-08-10,Structure,True,False,2,1,False,True,False,False,39,False,False,False,True,False,False,4
+CLM-016,Factory Lane,2026-08-06,Home contents,True,True,7,6,True,True,True,True,93,True,True,True,True,True,True,26
+CLM-017,Gandhi Nagar,2026-08-14,Structure,False,True,3,2,False,True,True,False,67,False,True,True,False,False,True,8
+CLM-018,West Canal,2026-08-21,Home contents,True,True,4,1,True,True,False,False,71,False,True,True,False,False,True,10
